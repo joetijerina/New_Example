@@ -20,7 +20,7 @@ This Hotspot FW package includes:
   * SOFTWARE:
 	* STM32Cube IDE v1.8 and higher
 	* STM32Cube_FW_WL_V1.2.0 Firmware Package
-![UG1](Utilities/Media/Images/User_Guide/UG1.jpg)
+![UG1](User_Guide/UG1.jpg)
 
 ## Set Up
 * Install STM32 CubeEcosystem tools (STM32Cube IDE)
@@ -28,8 +28,8 @@ This Hotspot FW package includes:
 * Attach the OLED Displays on the Nucleo-STM32WL55 Boards
 * Drag the .bin file onto the Nucleo-STM32WL55 board.
 * Do the same for both Nucleo-STM32WL55 Boards with the Firmware
-![UG2](Utilities/Media/Images/User_Guide/UG2.jpg)
-![UG3](Utilities/Media/Images/User_Guide/UG3.jpg)
+![UG2](User_Guide/UG2.jpg)
+![UG3](User_Guide/UG3.jpg)
 
 
 ## Parameter Summary
@@ -68,7 +68,7 @@ This Hotspot FW package includes:
 
 ## Operation Manual
 
-![UG4](Utilities/Media/Images/User_Guide/UG4.jpg)
+![UG4](User_Guide/UG4.jpg)
 
 ## Troubleshooting
 
